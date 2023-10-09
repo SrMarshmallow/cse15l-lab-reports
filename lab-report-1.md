@@ -9,33 +9,33 @@ Indicate whether the output is an error or not, and if it’s an error, explain 
 
 ## Using the commands with no arguments:
 
-**cd:
+**cd:**
 ![Image](imageName.png) <-- template, upload png to github repository then replace imageName.png with the name of the file in your repository. 
 
-**ls:
+**ls:**
 ![Image](imageName.png)
 
-**cat:
+**cat:**
 ![Image](imageName.png)
 
 ## Using the commands with a path to a directory as an argument:
 
-**cd:
+**cd:**
 ![Image](imageName.png)
 
-**ls:
+**ls:**
 ![Image](imageName.png)
 
-**cat:
+**cat:**
 ![Image](imageName.png)
 
 ## Using the commands with a path to a file as an argument:
 
-**cd:
+**cd:**
 ![Image](imageName.png)
 
-**ls:
+**ls:**
 ![Image](imageName.png)
 
-**cat:
+**cat:**
 ![Image](imageName.png)
