@@ -21,8 +21,8 @@ your mom
 Your mom's a rule
 ---
 
-'Your mom?'
+`Your mom?`
 
-'''
+```
 #your dad
-'''
+```
