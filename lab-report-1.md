@@ -6,7 +6,7 @@
 The working directory was ~/lecture1/messages. Using cd without any arguments does not cause any errors, but causes the command to return us to the home directory.
 
 **ls:**  ![Image](ls_noArgs.png)
-The wokring directory was the home directory. No other directories or folders such as messages showed up because those are in the lecture1 directory, but I was in the home directory which only contains the lecture1 folder that was listed. No errors were given.
+The working directory was the home directory. No other directories or folders such as messages showed up because those are in the lecture1 directory, but I was in the home directory which only contains the lecture1 folder that was listed. No errors were given.
 
 **cat:**  ![Image](cat_noArgs.png)
 There is no argument for the cat command to catenate, so no text is printed in the command line. However, you become unable to type or use other commands afterwards. Using Ctrl + C will exit you out of this state, and no errors are given despite the inability to type.
