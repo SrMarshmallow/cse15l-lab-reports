@@ -2,7 +2,7 @@
 
 ## Using the commands with no arguments:
 
-**cd:**  ![Image](cd_noArgument#2.png)
+**cd:**  ![Image](cd_noArgument2.png)
 The working directory was ~/lecture1/messages. Using cd without any arguments does not cause any errors, but causes the command to return us to the home directory.
 
 **ls:**  ![Image](ls_noArgs.png)
